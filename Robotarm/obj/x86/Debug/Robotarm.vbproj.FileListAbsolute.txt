@@ -1,0 +1,9 @@
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\bin\Debug\Robotarm.exe
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\bin\Debug\Robotarm.pdb
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\bin\Debug\Robotarm.xml
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\obj\x86\Debug\Robotarm.Form1.resources
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\obj\x86\Debug\Robotarm.Resources.resources
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\obj\x86\Debug\Robotarm.vbproj.GenerateResource.Cache
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\obj\x86\Debug\Robotarm.exe
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\obj\x86\Debug\Robotarm.xml
+C:\Users\Ihab-majdy\AppData\Local\Temporary Projects\Robotarm\obj\x86\Debug\Robotarm.pdb
